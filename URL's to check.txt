@@ -1,0 +1,9 @@
+http://localhost:8099/Eshop/secured/shop/greet
+
+http://localhost:8099/Eshop/secured/shop/addToCart/abc@123.com/2
+
+http://localhost:8099/Eshop/secured/shop/viewCart/abc@123.com
+
+http://localhost:8099/Eshop/secured/shop/removeFromCart/abc@123.com/2
+
+http://localhost:8099/Eshop/secured/shop/checkout/abc@123.com
